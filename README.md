@@ -9,7 +9,7 @@ My name is Nuno Valadão!
   </a>
 </div>
 
-I'm currently studying at programming [school 42](https://www.42porto.com)! I graduated in sports (bachelor), but I decided to take this opportunity and experience the world of programming, which has been amazing!
+I'm currently studying at programming [school 42](https://www.42porto.com)! I graduated in sports (bachelor), but I decided to take this opportunity and experience the world of programming, which has been life changing!
 
 * 🌍  I'm based in Porto, Portugal 
 * ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com) 
