@@ -1,5 +1,5 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="120"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150"/>
   
 My name is Nuno Valadão! 
 ====================================================================================================================================  
