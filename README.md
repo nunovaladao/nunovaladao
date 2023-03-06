@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================  
 42\_Student 💻 
 --------------  
-I'm currently studying at programming school 42! I graduated in sports (bachelor), but I decided to take this opportunity and experience the world of programming, which has been amazing!  
+I'm currently studying at programming [school 42](https://www.42porto.com)! I graduated in sports (bachelor), but I decided to take this opportunity and experience the world of programming, which has been amazing!
 
 * 🌍  I'm based in Porto, Portugal 
 * ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com) 
