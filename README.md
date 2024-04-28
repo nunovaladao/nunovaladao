@@ -13,7 +13,7 @@ I'm currently studying at programming [school 42](https://www.42porto.com)! I gr
 
 * 🌍  I'm based in `Porto, Portugal` 
 * ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com)
-* 🧠  I'm learning `C`, `C++`, `Python` and `MySQL`
+* 🧠  I'm learning `C`, `C++`, `Python` and `Backend`
 * ⚡   I'm very interested in the `Web3` world and `cryptocurrencies`!   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/eth.svg" title="Eth" alt="Eth" width="20" height="18"/>&nbsp; <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/btc.svg" title="Btc" alt="Btc" width="20" height="18"/>&nbsp;
 
 
