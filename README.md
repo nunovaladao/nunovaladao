@@ -21,7 +21,7 @@ I'm currently studying at programming [school 42](https://www.42porto.com)! I gr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python,django,nginx,docker,neovim"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python,django,nginx,docker,neovim,gitlab,linux"/>
   </a>
 </p>
 
