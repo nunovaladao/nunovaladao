@@ -12,7 +12,7 @@ My name is Nuno Valadão!
 I'm currently studying at programming [school 42](https://www.42porto.com)! I graduated in sports (bachelor), but I decided to take this opportunity and experience the world of programming, which has been life changing!
 
 * 🌍  I'm based in `Porto, Portugal` 
-* ✉️  You can contact me at [nunosvaladao@hotmail.com](mailto:nunosvaladao@hotmail.com)
+* ✉️  You can contact me at [nunosvaladao5@gmail.com](mailto:nunosvaladao5@gmail.com)
 * 🧠  I'm learning `C`, `C++`, `Python` and `Backend`
 * ⚡   I'm very interested in the `Web3` world and `cryptocurrencies`!   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/eth.svg" title="Eth" alt="Eth" width="20" height="18"/>&nbsp; <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/btc.svg" title="Btc" alt="Btc" width="20" height="18"/>&nbsp;
 
